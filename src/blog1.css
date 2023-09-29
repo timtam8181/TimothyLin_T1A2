@@ -24,10 +24,32 @@ nav {
     display: flex;
     flex-direction: column;
     justify-content: center;
+  }
 
+  section {
+    padding: 2rem 2rem;
+    margin: 2rem;
+    border:dotted #d8dbe245;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+
+  img {
+    width: 50vw;
+    height: 20vh;
   }
 
   @media only screen and (min-width: 450px) and (max-width: 999px) {
+ img {
+  width: 40vw;
+  height: 25vh;
+ }
+ 
+ section {
+  font-size: 2rem;
+ }
 
   }
 
@@ -41,7 +63,14 @@ nav {
   img {
     height: 40vh;
     width: 30vw;
-    display: flex;
-    flex-direction:
   }
-}
+  .container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+  }
+  div {
+    padding: 2rem;
+  }
+  }

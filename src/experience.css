@@ -14,7 +14,7 @@ section a{
   color:#D8DBE2;
   display: flex;
   justify-content: center; 
-  padding: 1rem
+  padding: 1rem;
 }
 
 body {
@@ -34,6 +34,10 @@ header p {
     font-size:small
 }
 
+header a {
+  color: #D8DBE2;
+}
+
 nav {
     display:flex;
     flex-direction: column;
@@ -50,6 +54,7 @@ nav {
   }
   nav a:hover {
     background:#333 ;
+    transform: scale(1.2)
   }
 
   footer {
@@ -76,17 +81,70 @@ nav {
     padding: 0.5em
   }
 
+  section {
+    padding: 2rem 1rem;
+    margin: 2rem;
+    border: white solid;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+
+  #photo1 {
+    width: 40vw ;
+    height: 20vh;
+
+
+  }
+
+  #photo2 {
+    width: 40vw;
+    height: 20vh ;
+  }
+
+  #photo3 {
+    width: 40vw;
+    height: 15vh;
+  }
+
   /*Tablet Styles */
 
-  @media only screen and (min-width: 450px) and (max-width: 999px){
+  @media only screen and (min-width: 450px) and (max-width: 870px){
+    
+    section {
+      font-size:larger;
+    }
+
   }
 
   /* Desktop Styles */
 
-  @media only screen and (min-width: 1000px) {
+  @media only screen and (min-width: 871px) {
     nav {
       display: flex;
       flex-direction: row;
     }
+
+    section {
+      font-size: large;
+    }
+
+    #photo1 {
+      width: 40vw ;
+      height: 40vh;
+  
+  
+    }
+  
+    #photo2 {
+      width: 40vw;
+      height: 40vh ;
+    }
+  
+    #photo3 {
+      width: 40vw;
+      height: 35vh;
+    }
+
 
   }
