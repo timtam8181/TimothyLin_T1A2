@@ -1,9 +1,12 @@
 # TimothyLin_T1A2
 
-[GITHUB](https://github.com/timtam8181?tab=repositories)
+## AuthorL Timothy Lin
+
+[Portfolio Website](https://timtam8181.github.io/TimothyLin_T1A2/index.html)
+[Github Repository](https://github.com/timtam8181?tab=repositories)
 
 ## Purpose 
-Hello world
+
 
 ## Functionality / features 
 
@@ -12,5 +15,6 @@ Hello world
 ## Screenshots
 
 ## Target Audience
+The intended target audience is for potential employers looking to gain an insight into my life on a professional as well as a personal level.
 
 ## Tech Stack 
