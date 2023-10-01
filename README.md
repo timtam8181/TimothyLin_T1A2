@@ -3,7 +3,7 @@
 ## Author: Timothy Lin
 
 - [Portfolio Website](https://timothy-lin-t1-a2.vercel.app/)
-- [Github Repository](https://github.com/timtam8181?tab=repositories)
+- [Github Repository](https://github.com/timtam8181/TimothyLin_T1A2)
 - [Presentation](https://www.youtube.com/watch?v=FPMUZS6byr0)
 
 ## Purpose 
