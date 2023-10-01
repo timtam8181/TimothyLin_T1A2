@@ -16,25 +16,25 @@ This website takes advantage of flexbox, to provide the ability to create a layo
 ![Sitemap](/docs/Sitemap.png) 
 
 ## Screenshots
-![homephone](../docs/homephone.png)
-![hometablet](../docs/hometablet.png)
-![homedesktop](../docs/homedesktop.png)
+![homephone](docs/homephone.png)
+![hometablet](docs/hometablet.png)
+![homedesktop](docs/homedesktop.png)
 
-![biophone](../docs/biophone.png)
-![biotablet](../docs/biotablet.png)
-![biodesktop](../docs/biodesktop.png) 
+![biophone](docs/biophone.png)
+![biotablet](docs/biotablet.png)
+![biodesktop](docs/biodesktop.png) 
 
-![experiencephone](../docs/experiencephone.png)
-![experiencetablet](../docs/experiencetablet.png)
-![experiencedesktop](../docs/experiencedesktop.png)
+![experiencephone](docs/experiencephone.png)
+![experiencetablet](docs/experiencetablet.png)
+![experiencedesktop](docs/experiencedesktop.png)
 
-![blogphone](../docs/blogphone.png) 
-![blogtablet](../docs/blogtablet.png)
-![blogdesktop](../docs/blogdesktop.png) 
+![blogphone](docs/blogphone.png) 
+![blogtablet](docs/blogtablet.png)
+![blogdesktop](docs/blogdesktop.png) 
  
-![blog1phone](../docs/blog1phone.png) 
-![blog1tablet](../docs/blog1tablet.png) 
-![blog1desktop](../docs/blog1desktop.png)
+![blog1phone](docs/blog1phone.png) 
+![blog1tablet](docs/blog1tablet.png) 
+![blog1desktop](docs/blog1desktop.png)
 
 ## Target Audience
 The intended target audience is for potential employers looking to gain an insight into my life on a professional as well as a personal level.
