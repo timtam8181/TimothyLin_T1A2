@@ -15,23 +15,6 @@ This website takes advantage of flexbox, to provide the ability to create a layo
 ## Sitemap
 ![Sitemap](/docs/Sitemap.png) 
 
-## Wireframes
-![homedesktopwireframe](homewireframe.png)
-![homephonewireframe](homephonewireframe.png)
-![hometabletwireframe](homepagetablet.png)
-![biodesktopwireframe](biowireframe.png)
-![biophonewireframe](biophonewireframe.png)
-![biotabletwireframe](biotabletwireframe.png)
-![experiencedesktopwireframe](experiencewireframe.png)
-![experiencephonewireframe](experiencephonewireframe.png)
-![experiencetabletwireframe](experiencetabletwireframe.png)
-![blogdesktopwireframe](blogwireframe.png)
-![blogphonewireframe](blogphonewireframe.png)
-![blogtabletwireframe](blogtabletwireframe.png)
-![blog1desktopwireframe](blogpost1wireframe.png)
-![blog1phonewireframe](blog1phonewireframe.png)
-![blog1tabletwireframe](blog1tabletwireframe.png)
-
 ## Screenshots
 ![homephone](../docs/homephone.png)
 ![hometablet](../docs/hometablet.png)
